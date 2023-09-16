@@ -1,6 +1,7 @@
 # Prayer Times Web Scraping Application
 
 #### This application allows you to fetch and display daily prayer times for a specified city and country using web scraping from the Aladhan API.
+## api: https://aladhan.com/prayer-times-api
 ![prayer_times](https://github.com/AhemdMahmoud/Web_Scraping_Case_Study/assets/109467491/777171df-4595-45fd-b5b0-27271232794cpng)
 # Getting Started
 #### To use this application, follow the steps below:
